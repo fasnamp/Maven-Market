@@ -20,10 +20,10 @@ The key objectives of this analysis are to:
 ## Dashboards Covered
 
 The analysis is structured into the following dashboards:
- ** Executive Sales Overview ** – Overall revenue, profit, growth trends, and regional contribution
- ** Product Analysis Dashboard  ** – Product-level revenue, profit, margins, and return patterns
- ** Return Analysis Dashboard ** – Return rate, revenue loss, and high-risk products/regions
- **Customer & Store Performance Dashboard ** – Customer value, income segments, store formats, and location performance
+* Executive Sales Overview  – Overall revenue, profit, growth trends, and regional contribution
+* Product Analysis Dashboard  – Product-level revenue, profit, margins, and return patterns
+* Return Analysis Dashboard  – Return rate, revenue loss, and high-risk products/regions
+* Customer & Store Performance Dashboard  – Customer value, income segments, store formats, and location performance
 
 ## Dataset Summary
 

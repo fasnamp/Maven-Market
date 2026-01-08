@@ -27,18 +27,18 @@ The analysis is structured into the following dashboards:
 
 ## Dataset Summary
 
- **Time Period **: 1997–1998
- **Total Revenue **: $1.76M
- **Net Revenue **: $1.75M
- **Total Profit **: $1.05M
- **Profit Margin **: ~60%
- **Total Transactions **: ~270K
- **Return Rate **: ~1%
- **Revenue Lost to Returns **: ~$17K
- **Total Customers **: 8,842
- **Revenue per Customer **: $199.56
- **Total Products **: 1,560
- **Total Quantity Sold **: ~833K units
+ * Time Period : 1997–1998
+ * Total Revenue : $1.76M
+ * Net Revenue : $1.75M
+ * Total Profit : $1.05M
+ * Profit Margin : ~60%
+ * Total Transactions : ~270K
+ * Return Rate : ~1%
+ * Revenue Lost to Returns : ~$17K
+ * Total Customers : 8,842
+ * Revenue per Customer : $199.56
+ * Total Products : 1,560
+ * Total Quantity Sold : ~833K units
 
 ## Tools Used
 
